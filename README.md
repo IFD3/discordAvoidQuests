@@ -11,8 +11,11 @@ Gladly discord also has an Windows Protocoll installed like http:// but with dis
 
 Download the git repo or the zip
 
-When using the zip extract everything in an directory so the "Discord ME.url" and the "copy_to_autostart.bat" are in the same directory.
-
+When using the zip: extract everything in an directory so the "Discord ME.url" and the "copy_to_autostart.bat" are in the same directory.  
 Just use the copy_to_autostart.bat and the link will be copied to the startup folder and the start menu so you can also run it manually
 
 The ICON will change automatically after the first run, if not after a windows restart. Windows does Windows things.
+
+## quirks
+If you have discord set up to "Automatically open Discord when your computer starts up" and don't have it starting minimized, you will see the GTA VI Banner, the quests page or whatever discord plans next.  
+If you have it starting minimized, it probably pop up.
