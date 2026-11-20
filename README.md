@@ -1,4 +1,4 @@
-# discordAvoicQuests
+# discordAvoidQuests
 Don't start with the Quests-Screen when discord starts
 
 ## Why an URL shortcut?
